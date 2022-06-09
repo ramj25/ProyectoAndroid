@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Act1_2_1"
+    android:background="@drawable/fondo2">
+
+    <ImageView
+        android:id="@+id/imgEquipo"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="2"
+        ></ImageView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="3"
+        android:orientation="vertical"
+        >
+
+        <TextView
+            android:id="@+id/txtE1"
+            android:layout_width="283dp"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="14dp"
+
+            android:textSize="22sp" />
+
+        <TextView
+            android:id="@+id/txtE2"
+            android:layout_width="match_parent"
+            android:layout_height="31dp"
+            android:layout_marginTop="3dp"
+
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txtE3"
+            android:layout_width="match_parent"
+            android:layout_height="99dp"
+            android:layout_marginTop="5dp"
+
+            android:textSize="13sp" />
+
+        <TextView
+            android:id="@+id/txtE4"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="0dp"
+            android:layout_marginTop="2dp"
+            android:textSize="14sp" />
+
+        <TextView
+            android:id="@+id/txtE5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="0dp"
+
+            android:textSize="14sp" />
+
+    </LinearLayout>
+
+
+
+</LinearLayout>

@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">La App del Mundial</string>
+    <string name="s1">Conoce a los Equipos</string>
+    <string name="s2">Consigue tus Figuritas!</string>
+    <string name="s3">La cuenta hacia la final</string>
+    <string name="s1_1">Equipo por Equipo</string>
+    <string name="s1_2">Grupos y Partidos</string>
+
+    <string name="g1">Grupo A</string>
+    <string name="g2">Grupo B</string>
+    <string name="g3">Grupo C</string>
+    <string name="g4">Grupo D</string>
+    <string name="g5">Grupo E</string>
+    <string name="g6">Grupo F</string>
+    <string name="g7">Grupo G</string>
+    <string name="g8">Grupo H</string>
+    <string name="g9">Etapa Final</string>
+    <string name="leyenda">PJ=Partidos jugados; PG=Partidos ganados; PE=Partidos empatados; PP=Partidos perdidos; GF=Goles a favor; GC=Goles en contra; DG=Diferencia de gol; PT=Puntos;</string>
+
+
+
+</resources>
